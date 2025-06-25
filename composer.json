@@ -1,5 +1,5 @@
 {
-    "name": "blackbricksoftware/laravel-migration-builder",
+    "name": "artembabak/laravel-migration-builder",
     "description": "Programmatically create full Laravel migrations.",
     "type": "library",
     "require": {
